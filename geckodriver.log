@@ -1,0 +1,185 @@
+1694610399278	geckodriver	INFO	Listening on 127.0.0.1:58785
+1694610402337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileG41YFd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694610402736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694610402827	Marionette	INFO	Listening on port 58796
+WebDriver BiDi listening on ws://127.0.0.1:58786
+Read port: 58796
+1694610403177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58786/devtools/browser/90e4246a-b806-46b4-81b2-936cebbda62b
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 511: Script terminated by timeout at:
+jE@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:511:268
+aa.jm@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:540:157
+aa.im/k/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:534:494
+Oj@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:271:235
+ak@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:274:349
+k@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:534:480
+c@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:316:169
+un@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:317:269
+aa.im@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:535:13
+c@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:552:943
+fw@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:395:298
+ew.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:398:266
+ew.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:396:207
+Yv@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:393:712
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:553:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:505:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:504:420
+
+1694610422506	Marionette	INFO	Stopped listening on port 58796
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1694611824128	geckodriver	INFO	Listening on 127.0.0.1:59051
+1694611827161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileSAuSkq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694611827546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694611827638	Marionette	INFO	Listening on port 59059
+WebDriver BiDi listening on ws://127.0.0.1:59052
+Read port: 59059
+1694611828010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59052/devtools/browser/44e7ae47-35c8-485b-9a34-07634d203714
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:111
+
+1694611849235	Marionette	INFO	Stopped listening on port 59059
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1694612177569	geckodriver	INFO	Listening on 127.0.0.1:59264
+1694612180610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofilekAhDxS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694612181010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694612181105	Marionette	INFO	Listening on port 59272
+WebDriver BiDi listening on ws://127.0.0.1:59265
+Read port: 59272
+1694612181472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59265/devtools/browser/43f8fea3-7704-4b58-9685-a6365431b9ad
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:167
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:62
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:111
+
+1694612194971	Marionette	INFO	Stopped listening on port 59272
+Dynamically enable window occlusion 1
+1694612366712	geckodriver	INFO	Listening on 127.0.0.1:59485
+1694612369824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileHDbN8M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694612370219	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694612370309	Marionette	INFO	Listening on port 59495
+WebDriver BiDi listening on ws://127.0.0.1:59486
+Read port: 59495
+1694612370682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59486/devtools/browser/ff5dcf8e-b07c-434c-a6d5-8aa9b8794927
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1694612374318	Marionette	INFO	Stopped listening on port 59495
+Dynamically enable window occlusion 1
+1694689190829	geckodriver	INFO	Listening on 127.0.0.1:64827
+1694689193914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileX26EFI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694689194783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694689194883	Marionette	INFO	Listening on port 64836
+WebDriver BiDi listening on ws://127.0.0.1:64828
+Read port: 64836
+1694689195264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64828/devtools/browser/14e683d0-4c52-4c9a-be85-30cfc258e021
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1694689392756	Marionette	INFO	Stopped listening on port 64836
+Dynamically enable window occlusion 1
+1694689722224	geckodriver	INFO	Listening on 127.0.0.1:65123
+1694689725282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileUeGb1a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694689725668	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694689725761	Marionette	INFO	Listening on port 65131
+WebDriver BiDi listening on ws://127.0.0.1:65124
+Read port: 65131
+1694689726144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65124/devtools/browser/4fd32cfc-30b9-4421-ba78-9397fd1a2488
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:111
+
+1694690166792	Marionette	INFO	Stopped listening on port 65131
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+he environment
+1694689970411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694689970532	Marionette	INFO	Listening on port 65245
+WebDriver BiDi listening on ws://127.0.0.1:65238
+Read port: 65245
+1694689970896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65238/devtools/browser/cf678967-2e7c-456a-98f6-501fbad84eb8
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1694690158368	geckodriver	INFO	Listening on 127.0.0.1:65397
+1694690161423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileY9gN1v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694690161900	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694690162019	Marionette	INFO	Listening on port 65406
+WebDriver BiDi listening on ws://127.0.0.1:65398
+Read port: 65406
+1694690162427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65398/devtools/browser/520fc678-a228-4b63-bd01-f993d14abf14
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:437:111
+
+1694690757159	Marionette	INFO	Stopped listening on port 65406
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+ion 0
+1694690420597	Marionette	INFO	Listening on port 49428
+WebDriver BiDi listening on ws://127.0.0.1:49419
+Read port: 49428
+1694690420987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49419/devtools/browser/fcfb31a7-759b-45f4-9bfe-3c36b2fd9b8e
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=2b34db3234b7261af1e98b63440b178eec6e&rid=gPpQot3BKBQB55eJVTOcqND3l5Q&reg=39&referer=http%3A%2F%2Fwww.seleniumeasy.com%2Ftest%2Fbasic-first-form-demo.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://www.seleniumeasy.com/sites/all/themes/seasy/js/sticky.js?rwb2qm, line 10: TypeError: $(...).get(...) is undefined
+1694697380525	geckodriver	INFO	Listening on 127.0.0.1:55204
+1694697383625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\isysd\\AppData\\Local\\Temp\\rust_mozprofileorYF4g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694697384027	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694697384127	Marionette	INFO	Listening on port 55214
+WebDriver BiDi listening on ws://127.0.0.1:55205
+Read port: 55214
+1694697384537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55205/devtools/browser/1c8bc0c8-60a2-4075-ad78-5566ec0f804d
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1694697580504	Marionette	INFO	Stopped listening on port 55214
+Dynamically enable window occlusion 1
